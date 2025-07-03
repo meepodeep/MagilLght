@@ -31,6 +31,8 @@ I have had a problem for a while now when soldering, where I cant hold a light o
 2. Install these packages: numpy, cv2m, and mediapipe.
 3. Run the Python script in the code folder.
 
+# BOM
+
 
 |Item| Quantity | Price | Use | Link|
 |----|----------|-------|-----|-----|
