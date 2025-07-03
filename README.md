@@ -29,7 +29,9 @@ I have had a problem for a while now when soldering, where I cant hold a light o
 # Software setup
 1. Install python 3.12 on the pi
 2. Install these packages: numpy, cv2m, and mediapipe.
-3. Run the Python script in the code folder. 
+3. Run the Python script in the code folder.
+
+
 |Item| Quantity | Price | Use | Link|
 |----|----------|-------|-----|-----|
 |Pi 5 8gb| x1| $90.66 | Run the opencv script and process the images| https://www.adafruit.com/product/5813 |
