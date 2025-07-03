@@ -3,7 +3,7 @@ title: "MagiLight"
 author: "meepodeep"
 description: "Light that tracks and follows your hand!"
 created_at: "2025-07-02"
-"total time spent 7h" 
+total_time_spent: "7h" 
 ---
 
 # 7/2/2025 Started the model and finished the code!
