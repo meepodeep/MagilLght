@@ -2,7 +2,10 @@
 
 ## A mini spotlight that follows your hand around your desk.
 
-![image](https://github.com/user-attachments/assets/5dbddb67-c66c-4a26-867a-15dece6ae748)
+![MagiLight_2025-Jul-03_06-11-32PM-000_CustomizedView8323422501](https://github.com/user-attachments/assets/885a8ff1-6353-4ade-a925-2b4b6e2ddffa)
+
+![image](https://github.com/user-attachments/assets/b80dabfd-3e1e-42af-9ee7-eddba355bb13)
+
 
 ## Why does this exist
 
